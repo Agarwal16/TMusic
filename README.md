@@ -1,6 +1,6 @@
 # TMusic App
 
-<img src="https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Fapp%20logo.png?alt=media&token=8052ec7a-6218-4c59-9b92-71155aa29902" alt="Home Screen" width="300"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Flogo2r.png?alt=media&token=0c06d0d2-889d-4d86-a325-cc18c247949e" alt="Home Screen" width="300"/>
 
 A feature-rich music player application built using Android with ExoPlayer integration, Firebase Firestore, and Glide for image loading. 
 
@@ -79,6 +79,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-Email: agarwaltanmay401@gmail.com
-GitHub: Agarwal16
+* Email: agarwaltanmay401@gmail.com
+* GitHub: Agarwal16
 
