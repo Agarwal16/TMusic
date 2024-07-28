@@ -15,13 +15,13 @@ A feature-rich music player application built using Android with ExoPlayer integ
 ## Screenshots
 
 ### Home Screen
-![Home Screen]((https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Fapp%20logo.png?alt=media&token=8052ec7a-6218-4c59-9b92-71155aa29902))
+<img src="https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Fapp%20logo.png?alt=media&token=8052ec7a-6218-4c59-9b92-71155aa29902" alt="Home Screen" width="300"/>
 
 ### Now Playing Screen
 ![Now Playing Screen](https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Fnow_playing.jpeg?alt=media&token=824b7f2c-dfda-49d4-aba0-6e2bd5ca722b)
 
 ### Categories Screen
-![Categories]((https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Fcategory_screen.jpeg?alt=media&token=1bf95d63-c788-48a8-a82c-76dd5cc68680))
+![Categories](https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Fcategory_screen.jpeg?alt=media&token=1bf95d63-c788-48a8-a82c-76dd5cc68680)
 
 ### Trending Songs
 ![trending Songs](https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Ftrending_screen.jpeg?alt=media&token=f305d2b4-929b-485d-ba1a-98c0d814f2f8)
