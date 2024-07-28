@@ -33,19 +33,19 @@ A feature-rich music player application built using Android with ExoPlayer integ
 
 5. Build and run the project on an Android device or emulator.
 
-##Dependencies
+## Dependencies
 * ExoPlayer: For music playback.
 * Firebase Firestore: For fetching categories and artist information.
 * Glide: For image loading and caching.
 
-##Getting Started
+## Getting Started
 1. Clone the Repository:
 git clone https://github.com/Agarwal16/TMusic.git
 cd tmusic
 
 3. Open in Android Studio:
 
-*Open Android Studio.
+* Open Android Studio.
 * Select Open an existing Android Studio project.
 * Choose the cloned repository directory.
 
@@ -57,7 +57,7 @@ cd tmusic
 * Connect your Android device or start an emulator.
 * Click on Run in Android Studio or press Shift + F10.
 
-##Usage
+## Usage
 
 1. Browse Music:
 * Open the app and browse music by categories and sections.
@@ -72,13 +72,13 @@ cd tmusic
 4. Explore Artists:
 * View artist details and browse their songs.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contact
+## Contact
 Email: agarwaltanmay401@gmail.com
 GitHub: Agarwal16
 
