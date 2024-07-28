@@ -15,7 +15,7 @@ A feature-rich music player application built using Android with ExoPlayer integ
 ## Screenshots
 
 ### Home Screen
-<img src="https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Fhome_screen.jpeg?alt=media&token=3c3f819d-cb5a-486a-8c4d-f5803ec4ef61" alt="Home Screen" width="300"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Fhome_screen.jpeg?alt=media&token=3c3f819d-cb5a-486a-8c4d-f5803ec4ef61" alt="Home Screen" width="300" height="200"/>
 
 ### Now Playing Screen
 <img src="https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Fnow_playing.jpeg?alt=media&token=824b7f2c-dfda-49d4-aba0-6e2bd5ca722b" alt="Home Screen" width="300"/>
