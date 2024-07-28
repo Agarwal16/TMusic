@@ -1,6 +1,6 @@
 # TMusic App
 
-![Logo](path/to/logo.png)
+![Logo](https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Fapp%20logo.png?alt=media&token=8052ec7a-6218-4c59-9b92-71155aa29902)
 
 A feature-rich music player application built using Android with ExoPlayer integration, Firebase Firestore, and Glide for image loading. 
 
@@ -15,16 +15,16 @@ A feature-rich music player application built using Android with ExoPlayer integ
 ## Screenshots
 
 ### Home Screen
-![Home Screen](path/to/home_screen.png)
+![Home Screen]((https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Fapp%20logo.png?alt=media&token=8052ec7a-6218-4c59-9b92-71155aa29902))
 
 ### Now Playing Screen
-![Now Playing Screen](path/to/now_playing_screen.png)
+![Now Playing Screen](https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Fnow_playing.jpeg?alt=media&token=824b7f2c-dfda-49d4-aba0-6e2bd5ca722b)
 
-### Categories
-![Categories](path/to/categories.png)
+### Categories Screen
+![Categories]((https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Fcategory_screen.jpeg?alt=media&token=1bf95d63-c788-48a8-a82c-76dd5cc68680))
 
-### Artist Info
-![Artist Info](path/to/artist_info.png)
+### Trending Songs
+![trending Songs](https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Ftrending_screen.jpeg?alt=media&token=f305d2b4-929b-485d-ba1a-98c0d814f2f8)
 
 ## Installation
 
@@ -51,32 +51,32 @@ cd tmusic
 
 3. Open in Android Studio:
 
-- Open Android Studio.
--Select Open an existing Android Studio project.
--Choose the cloned repository directory.
+*Open Android Studio.
+* Select Open an existing Android Studio project.
+* Choose the cloned repository directory.
 
 3. Sync and Build:
--Wait for Gradle to sync the project.
--Build the project and resolve any dependencies.
+* Wait for Gradle to sync the project.
+* Build the project and resolve any dependencies.
 
 4. Run the App:
--Connect your Android device or start an emulator.
--Click on Run in Android Studio or press Shift + F10.
+* Connect your Android device or start an emulator.
+* Click on Run in Android Studio or press Shift + F10.
 
 ##Usage
 
 1. Browse Music:
--Open the app and browse music by categories and sections.
+* Open the app and browse music by categories and sections.
 
 2. Play Music:
--Select a song to start playback.
--Use the player controls to play, pause, or skip tracks.
+* Select a song to start playback.
+* Use the player controls to play, pause, or skip tracks.
 
 3. View Now Playing:
--Check the current playing song with its cover image and animated GIF.
+* Check the current playing song with its cover image and animated GIF.
 
 4. Explore Artists:
--View artist details and browse their songs.
+* View artist details and browse their songs.
 
 ##Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
