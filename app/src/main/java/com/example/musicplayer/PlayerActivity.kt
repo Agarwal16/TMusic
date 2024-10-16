@@ -8,8 +8,6 @@ import android.view.View
 import androidx.media3.common.Player
 import androidx.media3.exoplayer.ExoPlayer
 import com.bumptech.glide.Glide
-import com.bumptech.glide.request.target.CustomTarget
-import com.bumptech.glide.request.transition.Transition
 import com.example.musicplayer.databinding.ActivityPlayerBinding
 
 
@@ -61,4 +59,3 @@ class PlayerActivity : AppCompatActivity() {
             binding.songGifImageView.visibility = View.INVISIBLE
     }
 }
-

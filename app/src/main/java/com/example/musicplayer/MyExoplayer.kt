@@ -40,16 +40,3 @@ object MyExoplayer {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -57,4 +57,9 @@ dependencies {
     implementation("androidx.media3:media3-exoplayer-dash:1.4.0")
     implementation("androidx.media3:media3-ui:1.4.0")
     implementation("androidx.core:core-splashscreen:1.0.1")
+
+    implementation ("androidx.core:core:1.13.1")
+    implementation ("androidx.media:media:1.7.0")
+    implementation ("androidx.media3:media3-session:1.4.0")
+
 }

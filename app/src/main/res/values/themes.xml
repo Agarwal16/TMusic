@@ -11,7 +11,7 @@
 
     <style name="Theme.App.SplashScreen" parent="Theme.MusicPlayer">
         <item name="windowSplashScreenBackground">@drawable/splash_background</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/tmusic</item>
         <item name="android:windowSplashscreenContent" >@string/app_name</item>
         <item name="postSplashScreenTheme">@style/Base.Theme.MusicPlayer</item>
     </style>
